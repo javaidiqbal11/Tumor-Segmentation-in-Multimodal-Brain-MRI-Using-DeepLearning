@@ -25,5 +25,5 @@ There are multiple files uploaded in the drive and all the data is preprocessd a
 - Step-04:
 	Restart the Google Colaboratory Runtime and sete to GPu or TPu to get the maximum execution in short time. 
 
-- Use the trainde models and pre-paaired dataset BRATS 2018 from the given link:
+- Use the trained models and prepaired dataset BRATS 2018 from the given my drive link:
   https://drive.google.com/drive/folders/1Cd5GMF3bQNOc9ycxFtkiVrOFmCG43rRY?usp=sharing
